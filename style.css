@@ -1,6 +1,6 @@
 @font-face {
   font-family: neon;
-  src: url(./NeonLights-22d.ttf);
+  src: url(./fonts/NeonLights-22d.ttf);
 }
 * {
   padding: 0;
@@ -40,7 +40,7 @@ body > * {
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  background-image: url(./village.avif);
+  background-image: url(./pictures/village.avif);
   background-size: cover;
 }
 .ref,
